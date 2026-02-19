@@ -30,7 +30,7 @@
 - created feature/UC5:PrintOOPS
 - Added file and committed them to feature/UC5:PrintOOPS
 - pushed changes on feature/UC5:PrintOOPS and merged to dev.
-### UC4 
+### UC6
 - created a file, printing OOPS using method , that returns O, S, P pattens.
 - created feature/UC6:PrintOOPS
 - Added file and committed them to feature/UC6:PrintOOPS
