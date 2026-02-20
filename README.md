@@ -35,3 +35,15 @@
 - created feature/UC6:PrintOOPS
 - Added file and committed them to feature/UC6:PrintOOPS
 - pushed changes on feature/UC6:PrintOOPS and merged to dev.
+### UC7
+- created a file, printing OOPS using inner classes and functions, to return O,S,P pattern 
+- created feature/UC7:PrintOOPS
+- Added file and committed them to feature/UC7:PrintOOPS
+- pushed changes on feature/UC7:PrintOOPS and merged to dev.
+
+## Date : 20-02-26
+### UC8
+- created a code , that prints OOPS using hashmap, that stores pattern for O, S, P.
+- created feature/UC8:PrintOOPS
+- Added file and committed them to feature/UC8:PrintOOPS
+- pushed changes on feature/UC8:PrintOOPS and merged to dev.
